@@ -103,6 +103,37 @@
                     }
                 ],
                 "PackageID": "com.mew.arialblack24"
-                }
-    ]
+                 },
+                 {
+                "Name": "FreeWifiAnywhereYouGo",
+                "Description": "free wifi anywhere you go!",
+                "Category": "Fonts",
+                "Caption": "free wifi anywhere you go!",
+                "MinIOSVersion": "15.0",
+                "MaxIOSVersion": "16.1.2",
+                "Author": {
+                    "Label": "ShinyMew",
+                    "Links": [
+                        {
+                            "Label": "GitHub",
+                            "Link": "https://github.com/lushaosalt/"
+                        }
+                    ]
+                },
+                "Icon": "https://cdn-icons-png.flaticon.com/512/93/93158.png?w=740&t=st=1689287117~exp=1689287717~hmac=5eac9a08e731a9f1157383899af016edd7484495f729d21d69a16ecd03d76dc0",
+                "Screenshot": [
+                "https://cdn-icons-png.flaticon.com/512/93/93158.png?w=740&t=st=1689287117~exp=1689287717~hmac=5eac9a08e731a9f1157383899af016edd7484495f729d21d69a16ecd03d76dc0"
+                ],
+                "Releases": [
+                    {
+                      "Version": "1.0",
+                      "Package": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/com.mew.GetWifiAnyWhereYouGo.misaka",
+                      "Description": "initial release"
+                    }
+                ],
+                "PackageID": "com.mew.freewifianywhereyougo"
+             }
+      ]
 }
+
+
