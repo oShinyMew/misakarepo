@@ -15,7 +15,7 @@
             "Category": "Games",
             "Caption": "Replaces the Legal Notice entry in the settings with Tetris",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.4",
             "Author": {
                 "Label": "ShinyMew",
                 "Links": [
